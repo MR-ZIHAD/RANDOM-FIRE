@@ -10,6 +10,6 @@ git clone https://github.com/MR-ZIHAD/RANDOM-FIRE
 
 cd RANDOM-FIRE
 
-python RANDOM-FIRE.py
+python fire.py
 
 ```
