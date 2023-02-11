@@ -1,4 +1,4 @@
-import os
+import f
 try:
     x = os.system('xdg-open https://g.co/kgs/8iehEi')
     if x == 0:
